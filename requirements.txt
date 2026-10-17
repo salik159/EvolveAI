@@ -1,0 +1,7 @@
+mem0ai
+ollama
+python-dotenv
+requests
+flask
+fastapi
+uvicorn[standard]
